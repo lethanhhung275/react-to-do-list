@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "description": "React Boilerplate Component for npm",
     "main": "./lib/BoilerplateComponent.js",
-    "license": "MIT",
     "scripts": {
         "build": "webpack"
     },
